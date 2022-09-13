@@ -25,7 +25,7 @@ Un giroscopio ayuda a mantener un orden en cuanto su posicion, al poder utilizar
   ![Movimiento Eje X](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/MPU6050-Accel-Gyro-Working-Roll-Mode-Output.gif)
   
   ### Eje Y
-    Al contrario que el eje X, las placa que en este caso se mueven son las M2 y M4, ya que en caso contrario, las m1 y m3 se posicionan sobre este eje.
+  Al contrario que el eje X, las placa que en este caso se mueven son las M2 y M4, ya que en caso contrario, las m1 y m3 se posicionan sobre este eje.
   ![Movimiento Eje Y](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/MPU6050-Accel-Gyro-Working-Pitch-Mode-Output.gif)
     
     
