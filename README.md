@@ -34,3 +34,7 @@ Un giroscopio ayuda a mantener un orden en cuanto su posicion, al poder utilizar
   
   ![Movimiento Eje Z](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/MPU6050-Accel-Gyro-Working-Yaw-Mode-Output.gif)
   
+  
+## Vista Fisica
+
+  ![Imagen Real](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/Decaped-L3GD20HTR-MEMS-Gyroscope.jpg)
