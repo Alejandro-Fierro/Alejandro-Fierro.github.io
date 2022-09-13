@@ -29,6 +29,8 @@ Un giroscopio ayuda a mantener un orden en cuanto su posicion, al poder utilizar
   
   ![Movimiento Eje Y](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/MPU6050-Accel-Gyro-Working-Pitch-Mode-Output.gif)
     
-    
-    
+## Eje Z
+  El eje Z, como las conexiones entre las 4 placas son sensibles, se detecta el movimiento horizontal entre todas, de esta forma dando a entender que el movimiento se esta dando en el eje Z, es por eso que permite detecta un movimiento en el eje Z
+  
+  ![Movimiento Eje Z](https://lastminuteengineers.b-cdn.net/wp-content/uploads/arduino/MPU6050-Accel-Gyro-Working-Yaw-Mode-Output.gif)
   
